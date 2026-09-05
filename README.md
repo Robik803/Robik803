@@ -11,6 +11,7 @@ sensor-data-platform — FastAPI + PostgreSQL backend for inertial sensor data.
 ## 🔧Main stack
 Rust · Python · TypeScript · PostgreSQL · Docker · GitHub Actions
 
-Madrid, Spain
-Spanish / French / English
+
+### Madrid, Spain
+### Spanish / French / English
 
