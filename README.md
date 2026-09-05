@@ -1,16 +1,16 @@
-## Hi there 👋
+## Roberto Wong (Robik803)
 
-<!--
-**Robik803/Robik803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer working with Rust, Python, TypeScript and SQL, with a growing focus on systems and blockchain engineering.
 
-Here are some ideas to get you started:
+# 🔭Currently building:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mini-blockchain-rust — blockchain prototype written in Rust to explore transaction execution, cryptographic identities, state management and blockchain architecture.
+
+sensor-data-platform — FastAPI + PostgreSQL backend for inertial sensor data.
+
+# 🔧Main stack
+Rust · Python · TypeScript · PostgreSQL · Docker · GitHub Actions
+
+Madrid, Spain
+Spanish / French / English
+
